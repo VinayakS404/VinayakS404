@@ -1,7 +1,7 @@
 Hi👋 My name is Vinayak S
 ==================================================================================================================================
 
-Learning JAVA Full Stak
+FrontEnd Developer, Learning JAVA Full Stak
 -----------------------
 
 Learning full‑stack web development step by step—building real projects with React, Java, and Spring Boot
