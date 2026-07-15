@@ -10,7 +10,7 @@ Learning full-stack web development step by step, building real projects with Ja
 
 * 🌍  I'm based in Alappuzha, Kerala, India
 * ✉️  You can contact me at [oreva.vinayak@gmail.com](mailto:oreva.vinayak@gmail.com)
-* 🧠  I'm currently learning React and Spring Boot
+* 🧠  I'm currently learning React and Spring Boot "Ideal boy"
 * ✨ BCA 2nd year student, learning independently ( full-stack ) and improving every day
 * 🚀 Teaching friends and juniors along the way
 
